@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sfigure", "Sfigure\Sfigure.csproj", "{7BD10C4C-1A80-4A9D-A385-F2815AA13956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sfigure.Tests", "Sfigure.Tests\Sfigure.Tests.csproj", "{61187EF2-D38F-40E8-882F-1DA2C6C5690B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD10C4C-1A80-4A9D-A385-F2815AA13956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD10C4C-1A80-4A9D-A385-F2815AA13956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD10C4C-1A80-4A9D-A385-F2815AA13956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD10C4C-1A80-4A9D-A385-F2815AA13956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61187EF2-D38F-40E8-882F-1DA2C6C5690B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61187EF2-D38F-40E8-882F-1DA2C6C5690B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61187EF2-D38F-40E8-882F-1DA2C6C5690B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61187EF2-D38F-40E8-882F-1DA2C6C5690B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58C2E8FD-D855-4FC8-9CEC-EF0AC114BA16}
+	EndGlobalSection
+EndGlobal
